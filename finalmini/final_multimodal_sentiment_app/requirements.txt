@@ -1,0 +1,10 @@
+streamlit
+requests
+Pillow
+numpy
+pandas
+scikit-learn
+torch
+transformers
+faiss-cpu
+joblib
